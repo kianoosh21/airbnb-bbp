@@ -1,0 +1,23 @@
+GET /experiences/FUZZ HTTP/2
+Host: www.airbnb.com.gclb.staging.p.airbnb.net
+Cookie: _aaj=25%7C2%7CXZo84YmWE9nmYcmzS7Ocpp03diJVeozpKska2BvVP5Q%2FEDoN39eKe4q9dmCqYjA8KL201itQAbBM1Tv%2FdF%2B%2FXRwrvzHHauXX8cGPRzb%2FkadqPWwO1iXy1p3XTyoASC6E2MQXEU356gnvClM8iPj%2B0dKsa9vtCz7T2vmfLy3WnL%2FkW%2FlDzOJz6MTQep%2Fyl2wthuRuavHnk9aMcjnaghAWJ23Euxw%2FrVdhh9Chv9Y%2Fb32auWxXsWI3E1oLnuKo2uBFyjMLghQ5IDuHayFsu5NOxCwApJhccnfxCc2KaYuvQIxQ0nUB7agOZ4IZLGWtFVEoJIcH26MsvQchVhMwhJT%2Fp%2FRfaG6kQAtSo5laH2tXNLP%2BuqTTTMxoX4xPsg9f%2F2PpTklAnUUC%2BANc8zL3PqAaLINW8%2BKRHWpCIYj36X5poso5UQ%2B1Dp%2FQrsmt67JnYMyovFDBXteCTmT%2FywEhdt%2BYKt6%2Fb06ZV6IEj1AgGWsfuT1tWF2sgrqq9ImbG%2FWXFsvQ6xSFVoalUSiNZJbEGCwvFpITNqviEuwBImZihCqCl5BFQGIN4lms%2FZO2qCASJjSKLWIHerdvXEbaFvcvKFg1g3N6s%2BHTeoFZlY1ApYWQ8cf5N7Dl3z1ANUfqqA349OLsOXGzXL%2BTYZg6If4NoZnqf9HI6RCTe%2Bk%2FfSYs6vSevvGsFhWkufCQh1Wg2GrMNgEddtbyHPHZT5mWQROrT4tvNt9jcYEPM4HcxyTvEQ%2FiJiQ7tFpOcfDW47vvVj5vfrEgN4NOV6zcDy4ki1B33UgzN2P%2BB%2BroJAGfutjoghkLCPMpsWhnNld0e2Ej%2Fjkunk%2F289xwY887zSqSth9y
+Cache-Control: max-age=0
+Sec-Ch-Device-Memory: 8
+Sec-Ch-Dpr: 1
+Sec-Ch-Viewport-Width: 2560
+Ect: 4g
+Sec-Ch-Ua: "Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Platform-Version: "19.0.0"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://www.airbnb.com.au/account-settings/taxes/taxpayers/gst/india
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,fa;q=0.8
+Priority: u=0, i
