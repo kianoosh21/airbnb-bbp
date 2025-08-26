@@ -1,3 +1,5 @@
+debugCategory
+stringValue
 1p-conversion
 404
 500
