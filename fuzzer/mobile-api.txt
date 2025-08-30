@@ -1,0 +1,2 @@
+[2K[32mapi.airbnb.cn           [Status: 200, Size: 8390, Words: 72, Lines: 1, Duration: 841ms][0m
+[2K[32mapi.preprod.airbnb.com  [Status: 200, Size: 8394, Words: 72, Lines: 1, Duration: 1626ms][0m

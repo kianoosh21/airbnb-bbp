@@ -1,23 +1,4 @@
-GET /experiences/FUZZ HTTP/2
-Host: www.airbnb.com.gclb.staging.p.airbnb.net
-Cookie: _aaj=25%7C2%7CXZo84YmWE9nmYcmzS7Ocpp03diJVeozpKska2BvVP5Q%2FEDoN39eKe4q9dmCqYjA8KL201itQAbBM1Tv%2FdF%2B%2FXRwrvzHHauXX8cGPRzb%2FkadqPWwO1iXy1p3XTyoASC6E2MQXEU356gnvClM8iPj%2B0dKsa9vtCz7T2vmfLy3WnL%2FkW%2FlDzOJz6MTQep%2Fyl2wthuRuavHnk9aMcjnaghAWJ23Euxw%2FrVdhh9Chv9Y%2Fb32auWxXsWI3E1oLnuKo2uBFyjMLghQ5IDuHayFsu5NOxCwApJhccnfxCc2KaYuvQIxQ0nUB7agOZ4IZLGWtFVEoJIcH26MsvQchVhMwhJT%2Fp%2FRfaG6kQAtSo5laH2tXNLP%2BuqTTTMxoX4xPsg9f%2F2PpTklAnUUC%2BANc8zL3PqAaLINW8%2BKRHWpCIYj36X5poso5UQ%2B1Dp%2FQrsmt67JnYMyovFDBXteCTmT%2FywEhdt%2BYKt6%2Fb06ZV6IEj1AgGWsfuT1tWF2sgrqq9ImbG%2FWXFsvQ6xSFVoalUSiNZJbEGCwvFpITNqviEuwBImZihCqCl5BFQGIN4lms%2FZO2qCASJjSKLWIHerdvXEbaFvcvKFg1g3N6s%2BHTeoFZlY1ApYWQ8cf5N7Dl3z1ANUfqqA349OLsOXGzXL%2BTYZg6If4NoZnqf9HI6RCTe%2Bk%2FfSYs6vSevvGsFhWkufCQh1Wg2GrMNgEddtbyHPHZT5mWQROrT4tvNt9jcYEPM4HcxyTvEQ%2FiJiQ7tFpOcfDW47vvVj5vfrEgN4NOV6zcDy4ki1B33UgzN2P%2BB%2BroJAGfutjoghkLCPMpsWhnNld0e2Ej%2Fjkunk%2F289xwY887zSqSth9y
-Cache-Control: max-age=0
-Sec-Ch-Device-Memory: 8
-Sec-Ch-Dpr: 1
-Sec-Ch-Viewport-Width: 2560
-Ect: 4g
-Sec-Ch-Ua: "Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"
-Sec-Ch-Ua-Mobile: ?0
-Sec-Ch-Ua-Platform: "Windows"
-Sec-Ch-Ua-Platform-Version: "19.0.0"
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Sec-Fetch-Site: same-origin
-Sec-Fetch-Mode: navigate
-Sec-Fetch-User: ?1
-Sec-Fetch-Dest: document
-Referer: https://www.airbnb.com.au/account-settings/taxes/taxpayers/gst/india
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9,fa;q=0.8
-Priority: u=0, i
+GET /v3/ViaductInboxData/8e8da639288bc724db027626019487a4f4ab9f27d546b8565444ba57dc08993e?operationName=ViaductInboxData&locale=en-AU&currency=AUD&variables=%7B%22getParticipants%22%3Atrue%2C%22numRequestedThreads%22%3A15%2C%22useUserThreadTag%22%3Atrue%2C%22userId%22%3A%22Vmlld2VyOjcxMzQwMzk1OQ%3D%3D%22%2C%22originType%22%3A%22USER_INBOX%22%2C%22threadVisibility%22%3A%22UNARCHIVED%22%2C%22threadTagFilters%22%3A%5B%5D%2C%22query%22%3Anull%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%228e8da639288bc724db027626019487a4f4ab9f27d546b8565444ba57dc08993e%22%7D%7D&client_id=3092nxybyb0otqw18e8nh5nty HTTP/2
+Host: FUZZ
+Accept: application/json
+X-Airbnb-Aaj: 26|2|W4KCM54o60lX+E4FecJJZCAydr14iKLoh6mYnDGcCqPgodlfk9JFIzxA6ef7DwKSk173VkRGB+HfQVHdHjuExVfTnN6K5lnx9YZze0u9D6Gy5ARfGJROXqLuDhQgTEdj5WYBwrcamQ9vWE4Ss1OV5IWUg5IKhBpC8QRxKaTl6ppn6Pr9pmJHuOvKEHfcs+/Kd2vOoWsCdDnX8+dJrTiM8iJjf6YoOHKeaY/tC14d5JP+sgD6iCYizcHloc1AcL1r5ESF6vukaL3Jy2fPMoLry10olDz7U+ZMdtc1rPTf8d6bKtpRySj+qFfFRhdwYCK5wXWxpVjP7AXHSdccVqmI2+f79tjS/7hi/JEC+dA/bkYtZL7tZqZQlQ77KpFYbQKyWCUlW3fK2fOOLpUNYnts4DEnhayhoxt9RctRPeAa1nLBd7qEYAhfCo0gvpHQDccWGBaK1LmZkhZjQoegP+f4wYguIUBysDdu58TU3eMztAIGX5T2lwMA+rJvBCQYZRkRKbR+fI48qlp335ntIt+wkaCuTiDQe2ytp9FNj8CgtcHrhXCGY4iMj2Jz3Sqjsj4AXeJs6JqN+ksiKbbD5fgf8sd1kYgHMKLNQXDuZVJpOisAyReX89dMHnQRYa/QoZA0zmahp7UOEK1Bwu3cwoZMzMbeBSxm63P8JwET9gIrW3cM5/qexwH/jSY7p4e4qXio4xiq4zSozuAUzuMzHTJn7yNc75rwiMWcwp17eIbWN7l8xJDrP3dmKQ2HvIQwTxw8APn7rwXYsNtR3W1A2VdtNgz5ZQcr8sDn7K+StNzSEOt4hsVvqG2BcPaeJpnAhhbSUC0nXrBGg0hUOCsPBV0vpNIun2Zb5FWlBeXJFlR4gYH9LqJV93dF3R5qQ2NRfnZl3wXb3v/TCoYIkT7/Mn9kNpvC9EEPnQlg97wM3dtjSXj3vJBK2Ki/WOoY0mZhm1LlORJIn+yE6uBLsNjqeR8Z9mgRtaeAPcxW8gBeUmh6
