@@ -1,158 +1,0 @@
-[2K[32makamai.airbnb.cn        [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 282ms][0m
-[2K[32makamai.airbnb.com       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 685ms][0m
-[2K[32makamai-staging.airbnb.cn [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 373ms][0m
-[2K[32makamai-staging.airbnb.com [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 411ms][0m
-[2K[32mapi.airbnb.cn           [Status: 200, Size: 8390, Words: 72, Lines: 1, Duration: 841ms][0m
-[2K[32mapi.preprod.airbnb.com  [Status: 200, Size: 8394, Words: 72, Lines: 1, Duration: 1626ms][0m
-[2K[32mar.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 1261ms][0m
-[2K[32maz.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 283ms][0m
-[2K[32mbg.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 321ms][0m
-[2K[32mbs.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 282ms][0m
-[2K[32mbs.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 669ms][0m
-[2K[32mbs.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 713ms][0m
-[2K[32mca.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 919ms][0m
-[2K[32mcnr.next.airbnb.com     [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 279ms][0m
-[2K[32mcs.airbnb.org           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 259ms][0m
-[2K[32mcs.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 320ms][0m
-[2K[32mcs.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 684ms][0m
-[2K[32mda.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 646ms][0m
-[2K[32mda.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 295ms][0m
-[2K[32mde.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 255ms][0m
-[2K[32mde.airbnb.lu            [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 284ms][0m
-[2K[32mda.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 350ms][0m
-[2K[32mde.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 456ms][0m
-[2K[32mde.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 641ms][0m
-[2K[32mel.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 442ms][0m
-[2K[32mel.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 692ms][0m
-[2K[32mengineering.airbnb.com  [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 302ms][0m
-[2K[32mes-l.airbnb.com         [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 277ms][0m
-[2K[32met.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 653ms][0m
-[2K[32met.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 665ms][0m
-[2K[32met.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 705ms][0m
-[2K[32mfi.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 273ms][0m
-[2K[32mfi.next.airbnb.com      [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 251ms][0m
-[2K[32mfr.airbnb.ch            [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 257ms][0m
-[2K[32mfr.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 249ms][0m
-[2K[32mfr.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 263ms][0m
-[2K[32mfr.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 337ms][0m
-[2K[32mga.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 694ms][0m
-[2K[32mga.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 255ms][0m
-[2K[32mhe.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 295ms][0m
-[2K[32mhe.airbnb.org           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 646ms][0m
-[2K[32mhi.airbnb.co.in         [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 255ms][0m
-[2K[32mhi.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 285ms][0m
-[2K[32mhi.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 641ms][0m
-[2K[32mhr.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 271ms][0m
-[2K[32mhr.next.airbnb.com      [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 297ms][0m
-[2K[32mhu.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 1009ms][0m
-[2K[32mhu.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 257ms][0m
-[2K[32mid.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 345ms][0m
-[2K[32mis.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 252ms][0m
-[2K[32mis.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 277ms][0m
-[2K[32mit.airbnb.ch            [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 273ms][0m
-[2K[32mit.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 254ms][0m
-[2K[32mit.airbnb.org           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 269ms][0m
-[2K[32mja.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 259ms][0m
-[2K[32mja.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 274ms][0m
-[2K[32mka.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 258ms][0m
-[2K[32mka.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 417ms][0m
-[2K[32mkn.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 655ms][0m
-[2K[32mka.next.airbnb.com      [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 651ms][0m
-[2K[32mkn.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 254ms][0m
-[2K[32mkn.airbnb.co.in         [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 308ms][0m
-[2K[32mlt.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 253ms][0m
-[2K[32mlv.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 259ms][0m
-[2K[32mlv.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 259ms][0m
-[2K[32mlt.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 612ms][0m
-[2K[32mmk.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 263ms][0m
-[2K[32mmk.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 257ms][0m
-[2K[32mmk.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 704ms][0m
-[2K[32mms.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 283ms][0m
-[2K[32mmr.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 665ms][0m
-[2K[32mmt.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 270ms][0m
-[2K[32mmt.airbnb.org           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 264ms][0m
-[2K[32mmr.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 700ms][0m
-[2K[32mmt.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 288ms][0m
-[2K[32mnext.airbnb.com         [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 264ms][0m
-[2K[32mnl.airbnb.org           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 251ms][0m
-[2K[32mno.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 259ms][0m
-[2K[32mnl.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 695ms][0m
-[2K[32mpages.mailer.hoteltonight.com [Status: 200, Size: 1189, Words: 315, Lines: 18, Duration: 226ms][0m
-[2K[32mpages.mail.luxuryretreats.com [Status: 200, Size: 1189, Words: 315, Lines: 18, Duration: 213ms][0m
-[2K[32mpl.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 265ms][0m
-[2K[32mpreprod.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 318ms][0m
-[2K[32mpt.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 251ms][0m
-[2K[32mpt.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 261ms][0m
-[2K[32mro.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 260ms][0m
-[2K[32mro.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 329ms][0m
-[2K[32mru.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 762ms][0m
-[2K[32msk.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 261ms][0m
-[2K[32msr.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 739ms][0m
-[2K[32msr.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 705ms][0m
-[2K[32msv.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 412ms][0m
-[2K[32msw.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 256ms][0m
-[2K[32msw.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 274ms][0m
-[2K[32mtl.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 274ms][0m
-[2K[32mtl.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 259ms][0m
-[2K[32mtr.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 263ms][0m
-[2K[32muk.airbnb.com           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 256ms][0m
-[2K[32muk.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 262ms][0m
-[2K[32mvi.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 858ms][0m
-[2K[32mvi.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 281ms][0m
-[2K[32mvi.airbnb.org           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 295ms][0m
-[2K[32mwww.airbnb.at           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 328ms][0m
-[2K[32mwww.airbnb.ca           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 257ms][0m
-[2K[32mwww.airbnb.co.cr        [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 277ms][0m
-[2K[32mwww.airbnb.co.in        [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 284ms][0m
-[2K[32mwww.airbnb.co.kr        [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 262ms][0m
-[2K[32mWww.airbnb.com          [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 267ms][0m
-[2K[32mWWW.airbnb.com          [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 279ms][0m
-[2K[32mwww.airbnb.com.au       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 271ms][0m
-[2K[32mwww.airbnb.com.br       [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 254ms][0m
-[2K[32mwww.airbnb.com.ee       [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 255ms][0m
-[2K[32mwww.airbnb.com.bo       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 320ms][0m
-[2K[32mwww.airbnb.com.hk       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 278ms][0m
-[2K[32mwww.airbnb.com.ni       [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 261ms][0m
-[2K[32mwww.airbnb.com.mt       [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 289ms][0m
-[2K[32mwww.airbnb.com.ro       [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 263ms][0m
-[2K[32mwww.airbnb.com.bz       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 407ms][0m
-[2K[32mwww.airbnb.com.ec       [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 297ms][0m
-[2K[32mwww.airbnb.com.vn       [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 260ms][0m
-[2K[32mwww.airbnb.co.ve        [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 253ms][0m
-[2K[32mwww.airbnb.com.ua       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 286ms][0m
-[2K[32mwww.airbnb.com.py       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 326ms][0m
-[2K[32mwww.airbnb.ie           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 277ms][0m
-[2K[32mwww.airbnb.nl           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 254ms][0m
-[2K[32mwww.airbnb.no           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 257ms][0m
-[2K[32mwww.airbnb.cn           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 568ms][0m
-[2K[32mwww.airbnb.pl           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 253ms][0m
-[2K[32mwww.airbnb.com.sv       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 292ms][0m
-[2K[32mwww.airbnb.lu           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 395ms][0m
-[2K[32mwww.airbnb.com.hn       [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 354ms][0m
-[2K[32mwww.airbnb.pt           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 312ms][0m
-[2K[32mwww.airbnb.ru           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 339ms][0m
-[2K[32mwww.airbnb.co.za        [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 259ms][0m
-[2K[32mwww.akamai-dev.airbnb.org [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 405ms][0m
-[2K[32mwww.akamai-dev.airbnb.co.uk [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 423ms][0m
-[2K[32mwww.airbnb.com.co       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 331ms][0m
-[2K[32mwww.airbnb.com.gt       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 260ms][0m
-[2K[32mwww.airbnb.com.my       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 364ms][0m
-[2K[32mwww-bt2.airbnb.cn       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 468ms][0m
-[2K[32mwww.airbnb.ba           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 338ms][0m
-[2K[32mWWW.AIRBNB.COM          [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 256ms][0m
-[2K[32mwww.airbnb.com.tw       [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 326ms][0m
-[2K[32mwww.airbnb.com.ph       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 437ms][0m
-[2K[32mxh.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 268ms][0m
-[2K[32mxh.airbnb.co.za         [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 376ms][0m
-[2K[32mxh.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 775ms][0m
-[2K[32mxxlong.airbnb.com       [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 271ms][0m
-[2K[32mxx.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 290ms][0m
-[2K[32mxxrtl.next.airbnb.com   [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 293ms][0m
-[2K[32mxxrtl.airbnb.com        [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 323ms][0m
-[2K[32mxh.airbnb.org           [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 302ms][0m
-[2K[32mzh.airbnb.com           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 274ms][0m
-[2K[32mzh.airbnb.org           [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 785ms][0m
-[2K[32mzh-t.airbnb.com         [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 257ms][0m
-[2K[32mzh-t.next.airbnb.com    [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 293ms][0m
-[2K[32mzh.next.airbnb.com      [Status: 200, Size: 918, Words: 29, Lines: 1, Duration: 668ms][0m
-[2K[32mzu.next.airbnb.com      [Status: 200, Size: 1544, Words: 43, Lines: 1, Duration: 255ms][0m
